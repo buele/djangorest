@@ -3,7 +3,12 @@ Django Rest
 
 Rest Django Framework starter kit
 
-# Setup and run the server 
+# Requirements
+ - virtualenv
+ - python 3.x
+ - pip 6.x
+
+# Setup and run the server
 
 ```
 

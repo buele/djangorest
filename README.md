@@ -12,7 +12,7 @@ Rest Django Framework starter kit
 
 ```
 
-git clone git@github.com:buele/djangorest.git
+git clone https://github.com/buele/djangorest.git
 cd djangorest
 virtualenv -p python3 env
 source env/bin/activate
